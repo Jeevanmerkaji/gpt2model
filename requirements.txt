@@ -1,0 +1,5 @@
+torch>=2.1
+numpy
+tiktoken
+# optional: only needed to load OpenAI's pretrained weights (--init_from gpt2)
+transformers
